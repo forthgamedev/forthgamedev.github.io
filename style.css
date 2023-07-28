@@ -6,6 +6,15 @@ body {
 	font-family: sans-serif;
 }
 
+#fullpage {
+	display: flex;
+	flex-direction: column;
+	height: 100vh;
+	width: 100vw;
+	align-items: center;
+	justify-content: center;
+}
+
 h1 {
 	letter-spacing: 0.125rem;
 	margin-bottom: 6.4rem;
