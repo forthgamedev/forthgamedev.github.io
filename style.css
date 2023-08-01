@@ -1,5 +1,6 @@
 body {
-	background-color: #0b1523;
+	background: #0b1523;
+	background: linear-gradient(214deg, #0b1523,  #0b1523, #000000);
 	text-align: center;
 	margin: auto;
 	color: #ffffff;
@@ -18,6 +19,7 @@ body {
 h1 {
 	letter-spacing: 0.125rem;
 	margin-bottom: 6.4rem;
+	font-size: 2.4vh;
 }
 
 h2 {
@@ -41,7 +43,8 @@ img {
 }
 
 #logo {
-	width: 853px;
+	max-width: 853px;
+	width: 45vw;
 }
 
 .content {
