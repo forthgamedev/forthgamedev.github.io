@@ -18,7 +18,7 @@ body {
 
 h1 {
 	letter-spacing: 0.125rem;
-	margin-bottom: 6.4rem;
+	margin-bottom: 3.2rem;
 	font-size: 2.4vh;
 }
 
@@ -85,15 +85,14 @@ img {
 .form-fields input[type="submit"] {
     border-radius: 0 1rem 1rem 0;
     letter-spacing: 0.025em;
-    background-color: #8b95a3;
+    background-color: #ffffff;
     color: #0b1523;
     transition-duration: 300ms;
 }
 
 .form-fields input[type="submit"]:hover {
     cursor: pointer;
-    background-color: #ffffff;
-    
+    background-color: #8b95a3;
 }
 
 /* SOCIAL MEDIA */
